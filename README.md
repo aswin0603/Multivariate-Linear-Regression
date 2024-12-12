@@ -22,6 +22,9 @@ Print the output and end the program.
 
 ## Program:
 ```python
+#Developed by: ASWIN B
+#RegisterNumber: 24900642
+
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
